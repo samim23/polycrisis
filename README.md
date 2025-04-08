@@ -4,6 +4,9 @@
 
 Polycrisis is an online platform that helps users understand the interconnected nature of global crises, assess risks, and develop preparation strategies. This platform leverages advanced AI tools to research and analyze the state of the global polycrisis from multiple perspectives, integrating insights across disciplines to assess risks in ways that would be impossible for any single human analyst.
 
+Online version: https://polycrisis.guide
+Blog: https://samim.ai/work/polycrisis
+
 The project consists of:
 
 1. A **Frontend** built with React, TypeScript, and Tailwind CSS that provides interactive visualizations and information about global systemic risks
