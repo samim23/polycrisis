@@ -7,7 +7,7 @@ export default function Community() {
       {/* Hero Section - Left aligned */}
       <div className="mb-8">
         <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 sm:tracking-tight break-words">
-          About <span className="text-blue-600">Polycrisis.guide</span>
+          About <span className="text-blue-600">Polycrisis Guide</span>
         </h1>
       </div>
 
@@ -17,12 +17,12 @@ export default function Community() {
           <div className="p-4 md:p-8">
             <div className="text-gray-700 space-y-6 md:text-lg">
               <div>
-                <p><b>Polycrisis.guide is a platform that addresses the convergence of multiple interconnected global challenges that amplify each other—what we call a "polycrisis."</b> It uses AI agents to research and analyze these systemic risks from multiple perspectives, integrating insights across disciplines in ways no single human analyst could achieve. The platform provides actionable preparation frameworks to help individuals and communities build resilience against these converging challenges.</p>
+                <p><b>Polycrisis Guide is a platform that addresses the convergence of multiple interconnected global challenges that amplify each other—what we call a "polycrisis."</b> It uses AI agents to research and analyze these systemic risks from multiple perspectives, integrating insights across disciplines in ways no single human analyst could achieve. The platform provides actionable preparation frameworks to help individuals and communities build resilience against these converging challenges. <a href="https://samim.ai/work/polycrisis" className="text-blue-600 hover:text-blue-700">Read more here</a>.</p>
               </div>
               
               <div className="pt-4 border-t border-gray-200">
                 <div className="flex items-center">
-                  <p className="text-gray-600 flex-1"><b>Polycrisis.guide was developed by <a href="https://samim.ai" className="text-blue-600 hover:text-blue-700">Studio Samim</a></b> as part of a "AI Research Agent" project for a client in the financial risk management industry that wants to stay anonymous but has agreed to allow this curation of information that was gathered with the same tool set to be made public.</p>
+                  <p className="text-gray-600 flex-1"><b>Polycrisis Guide was developed by <a href="https://samim.ai" className="text-blue-600 hover:text-blue-700">Studio Samim</a></b> as part of a "AI Research Agent" project for a client in the financial risk management industry that wants to stay anonymous but has agreed to allow this curation of information that was gathered with the same tool set to be made public.</p>
                   <div className="ml-6 flex-shrink-0">
                     <img 
                       src="https://samim.ai/assets/images/illustrations/studiosamim.png" 

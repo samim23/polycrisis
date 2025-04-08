@@ -158,11 +158,11 @@ export default function Overview() {
 
         {/* Navigation cards */}
         <h2 className="text-2xl font-semibold text-gray-800 mt-8 mb-4 flex items-center">
-            About <span className="text-blue-600 ml-2">Polycrisis.Guide</span>
+            About <span className="text-blue-600 ml-2">Polycrisis Guide</span>
         </h2>
         <div className="bg-white rounded-xl mb-8">
           <p className="text-gray-700 leading-relaxed">
-            <b>Polycrisis.Guide uses AI Agents to comprehensively research and analyze the state of the global polycrisis.</b> It integrates insights across disciplines, assessing risks from angles that would be impossible for any single human analyst to cover.
+            <b>Polycrisis Guide uses AI Agents to comprehensively research and analyze the state of the global polycrisis.</b> It integrates insights across disciplines, assessing risks from angles that would be impossible for any single human analyst to cover.
             
             Polycrisis also provides an actionable preparation framework, to help communities build resilience in the face of challenges.
           </p>
