@@ -1,0 +1,17 @@
+{
+  "name": "polycrisis-ai",
+  "version": "1.0.0",
+  "description": "Polycrisis Frontend",
+  "scripts": {
+    "build": "cd frontend && npm install --include=dev && npm run build",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "cacheDirectories": ["frontend/node_modules"]
+} 
