@@ -607,9 +607,9 @@ export default function Risks() {
                     <AlertTriangle className="h-6 w-6 text-amber-600" />
                   </div>
                   <div>
-                    <h4 className="text-base font-bold text-amber-800 mb-1">DEMO VERSION - IMPORTANT NOTICE:</h4>
+                    <h4 className="text-base font-bold text-amber-800 mb-1">IMPORTANT NOTICE:</h4>
                     <p className="text-base text-amber-800 leading-relaxed">
-                      The data displayed here is entirely fictional and for demonstration purposes only. Due to client contractual obligations, the actual project data cannot be shared publicly at this time. This demo uses placeholder information solely to showcase dashboard functionality and does not represent real conditions or findings. Real data will be implemented when contractual restrictions permit.
+                      The data displayed in the Indicators section is fictional and for demonstration purposes only (DATA OF ALL OTHER SECTIONS IS REAL). Due to client contractual obligations, the actual project data cannot be shared publicly at this time. This demo uses placeholder information solely to showcase dashboard functionality and does not represent real conditions or findings. Real data will be implemented when contractual restrictions permit.
                     </p>
                   </div>
                 </div>
